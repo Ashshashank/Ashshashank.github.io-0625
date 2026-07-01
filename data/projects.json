@@ -1,0 +1,552 @@
+{
+  "_instructions": "Add your professional projects.",
+  "sectionTitle": "Portfolio",
+  "subtitle": "Featured professional projects",
+  "projects": [
+    {
+      "title": "Agile-Software-Development",
+      "description": "Building a website using agile methodologies",
+      "longDescription": "Building a website using agile methodologies",
+      "category": "Backend Development",
+      "technologies": [
+        "JavaScript",
+        "CSS",
+        "Python",
+        "HTML",
+        "Dockerfile"
+      ],
+      "icon": "fas fa-brain",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&q=80&fit=crop",
+      "featured": true,
+      "status": "Completed",
+      "role": "Lead Developer",
+      "duration": "",
+      "client": "",
+      "github": "https://github.com/Ashshashank/Agile-Software-Development",
+      "demo": "https://github.com/Ashshashank/Agile-Software-Development",
+      "links": {
+        "github": "https://github.com/Ashshashank/Agile-Software-Development",
+        "demo": "https://github.com/Ashshashank/Agile-Software-Development",
+        "live": "https://github.com/Ashshashank/Agile-Software-Development"
+      },
+      "metrics": {
+        "users": "",
+        "performance": "",
+        "impact": ""
+      }
+    },
+    {
+      "title": "Snowfall-Signal",
+      "description": "A Predictive Analytics Dashboard Inspired by Real Companies",
+      "longDescription": "A Predictive Analytics Dashboard Inspired by Real Companies",
+      "category": "Backend Development",
+      "technologies": [
+        "Python"
+      ],
+      "icon": "fas fa-project-diagram",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "status": "Completed",
+      "role": "Lead Developer",
+      "duration": "",
+      "client": "",
+      "github": "https://github.com/Ashshashank/Snowfall-Signal",
+      "demo": "https://github.com/Ashshashank/Snowfall-Signal",
+      "links": {
+        "github": "https://github.com/Ashshashank/Snowfall-Signal",
+        "demo": "https://github.com/Ashshashank/Snowfall-Signal",
+        "live": "https://github.com/Ashshashank/Snowfall-Signal"
+      },
+      "metrics": {
+        "users": "",
+        "performance": "",
+        "impact": ""
+      }
+    },
+    {
+      "title": "customer-churn-prediction",
+      "description": "Learning project built with modern web technologies",
+      "longDescription": "Learning project built with modern web technologies",
+      "category": "Backend Development",
+      "technologies": [
+        "Python"
+      ],
+      "icon": "fas fa-project-diagram",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "status": "Completed",
+      "role": "Lead Developer",
+      "duration": "",
+      "client": "",
+      "github": "https://github.com/Ashshashank/customer-churn-prediction",
+      "demo": "https://github.com/Ashshashank/customer-churn-prediction",
+      "links": {
+        "github": "https://github.com/Ashshashank/customer-churn-prediction",
+        "demo": "https://github.com/Ashshashank/customer-churn-prediction",
+        "live": "https://github.com/Ashshashank/customer-churn-prediction"
+      },
+      "metrics": {
+        "users": "",
+        "performance": "",
+        "impact": ""
+      }
+    },
+    {
+      "title": "ai_soc",
+      "description": "Hands-on learning experience with modern frameworks",
+      "longDescription": "Hands-on learning experience with modern frameworks",
+      "category": "Backend Development",
+      "technologies": [
+        "Python",
+        "HTML",
+        "Shell",
+        "PowerShell",
+        "Dockerfile",
+        "Zeek",
+        "Batchfile"
+      ],
+      "icon": "fas fa-brain",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "status": "Completed",
+      "role": "Lead Developer",
+      "duration": "",
+      "client": "",
+      "github": "https://github.com/Ashshashank/ai_soc",
+      "demo": "https://github.com/Ashshashank/ai_soc",
+      "links": {
+        "github": "https://github.com/Ashshashank/ai_soc",
+        "demo": "https://github.com/Ashshashank/ai_soc",
+        "live": "https://github.com/Ashshashank/ai_soc"
+      },
+      "metrics": {
+        "users": "",
+        "performance": "",
+        "impact": ""
+      }
+    },
+    {
+      "title": "time-series-forecasting-python",
+      "description": "Personal development project using industry best practices",
+      "longDescription": "Personal development project using industry best practices",
+      "category": "Backend Development",
+      "technologies": [
+        "Jupyter Notebook",
+        "Python",
+        "HTML"
+      ],
+      "icon": "fas fa-brain",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "status": "Completed",
+      "role": "Lead Developer",
+      "duration": "",
+      "client": "",
+      "github": "https://github.com/Ashshashank/time-series-forecasting-python",
+      "demo": "https://github.com/Ashshashank/time-series-forecasting-python",
+      "links": {
+        "github": "https://github.com/Ashshashank/time-series-forecasting-python",
+        "demo": "https://github.com/Ashshashank/time-series-forecasting-python",
+        "live": "https://github.com/Ashshashank/time-series-forecasting-python"
+      },
+      "metrics": {
+        "users": "",
+        "performance": "",
+        "impact": ""
+      }
+    },
+    {
+      "title": "sentiment-analysis-webapp-sagemaker",
+      "description": "Full-featured application built as a learning exercise",
+      "longDescription": "Full-featured application built as a learning exercise",
+      "category": "Backend Development",
+      "technologies": [
+        "Jupyter Notebook",
+        "Python",
+        "HTML"
+      ],
+      "icon": "fas fa-brain",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "status": "Completed",
+      "role": "Lead Developer",
+      "duration": "",
+      "client": "",
+      "github": "https://github.com/Ashshashank/sentiment-analysis-webapp-sagemaker",
+      "demo": "https://github.com/Ashshashank/sentiment-analysis-webapp-sagemaker",
+      "links": {
+        "github": "https://github.com/Ashshashank/sentiment-analysis-webapp-sagemaker",
+        "demo": "https://github.com/Ashshashank/sentiment-analysis-webapp-sagemaker",
+        "live": "https://github.com/Ashshashank/sentiment-analysis-webapp-sagemaker"
+      },
+      "metrics": {
+        "users": "",
+        "performance": "",
+        "impact": ""
+      }
+    },
+    {
+      "title": "generating-synthetic-data-using-gans",
+      "description": "Personal development project using industry best practices",
+      "longDescription": "Personal development project using industry best practices",
+      "category": "Software Development",
+      "technologies": [
+        "Jupyter Notebook"
+      ],
+      "icon": "fas fa-project-diagram",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "status": "Completed",
+      "role": "Lead Developer",
+      "duration": "",
+      "client": "",
+      "github": "https://github.com/Ashshashank/generating-synthetic-data-using-gans",
+      "demo": "https://github.com/Ashshashank/generating-synthetic-data-using-gans",
+      "links": {
+        "github": "https://github.com/Ashshashank/generating-synthetic-data-using-gans",
+        "demo": "https://github.com/Ashshashank/generating-synthetic-data-using-gans",
+        "live": "https://github.com/Ashshashank/generating-synthetic-data-using-gans"
+      },
+      "metrics": {
+        "users": "",
+        "performance": "",
+        "impact": ""
+      }
+    },
+    {
+      "title": "computer-vision-projects",
+      "description": "Modern web application demonstrating clean code principles",
+      "longDescription": "Modern web application demonstrating clean code principles",
+      "category": "Backend Development",
+      "technologies": [
+        "Jupyter Notebook",
+        "Python"
+      ],
+      "icon": "fas fa-project-diagram",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "status": "Completed",
+      "role": "Lead Developer",
+      "duration": "",
+      "client": "",
+      "github": "https://github.com/Ashshashank/computer-vision-projects",
+      "demo": "https://github.com/Ashshashank/computer-vision-projects",
+      "links": {
+        "github": "https://github.com/Ashshashank/computer-vision-projects",
+        "demo": "https://github.com/Ashshashank/computer-vision-projects",
+        "live": "https://github.com/Ashshashank/computer-vision-projects"
+      },
+      "metrics": {
+        "users": "",
+        "performance": "",
+        "impact": ""
+      }
+    },
+    {
+      "title": "create-million-parameter-llm-from-scratch",
+      "description": "Personal development project using industry best practices",
+      "longDescription": "Personal development project using industry best practices",
+      "category": "Software Development",
+      "technologies": [
+        "Jupyter Notebook"
+      ],
+      "icon": "fas fa-project-diagram",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "status": "Completed",
+      "role": "Lead Developer",
+      "duration": "",
+      "client": "",
+      "github": "https://github.com/Ashshashank/create-million-parameter-llm-from-scratch",
+      "demo": "https://github.com/Ashshashank/create-million-parameter-llm-from-scratch",
+      "links": {
+        "github": "https://github.com/Ashshashank/create-million-parameter-llm-from-scratch",
+        "demo": "https://github.com/Ashshashank/create-million-parameter-llm-from-scratch",
+        "live": "https://github.com/Ashshashank/create-million-parameter-llm-from-scratch"
+      },
+      "metrics": {
+        "users": "",
+        "performance": "",
+        "impact": ""
+      }
+    },
+    {
+      "title": "multi-agentic-rag",
+      "description": "Full-featured application built as a learning exercise",
+      "longDescription": "Full-featured application built as a learning exercise",
+      "category": "Backend Development",
+      "technologies": [
+        "Python"
+      ],
+      "icon": "fas fa-project-diagram",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "status": "Completed",
+      "role": "Lead Developer",
+      "duration": "",
+      "client": "",
+      "github": "https://github.com/Ashshashank/multi-agentic-rag",
+      "demo": "https://github.com/Ashshashank/multi-agentic-rag",
+      "links": {
+        "github": "https://github.com/Ashshashank/multi-agentic-rag",
+        "demo": "https://github.com/Ashshashank/multi-agentic-rag",
+        "live": "https://github.com/Ashshashank/multi-agentic-rag"
+      },
+      "metrics": {
+        "users": "",
+        "performance": "",
+        "impact": ""
+      }
+    },
+    {
+      "title": "mlops-app",
+      "description": "Interactive application built for continuous learning",
+      "longDescription": "Interactive application built for continuous learning",
+      "category": "Backend Development",
+      "technologies": [
+        "HCL",
+        "Python",
+        "Jupyter Notebook",
+        "Dockerfile",
+        "Shell"
+      ],
+      "icon": "fas fa-project-diagram",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "status": "Completed",
+      "role": "Lead Developer",
+      "duration": "",
+      "client": "",
+      "github": "https://github.com/Ashshashank/mlops-app",
+      "demo": "https://github.com/Ashshashank/mlops-app",
+      "links": {
+        "github": "https://github.com/Ashshashank/mlops-app",
+        "demo": "https://github.com/Ashshashank/mlops-app",
+        "live": "https://github.com/Ashshashank/mlops-app"
+      },
+      "metrics": {
+        "users": "",
+        "performance": "",
+        "impact": ""
+      }
+    },
+    {
+      "title": "FLUZ-DS",
+      "description": "A full data science pipeline that analyzes customer behavior, predicts optimal cashback rates, and explains model insights—showing how data can drive smarter rewards in fintech.",
+      "longDescription": "A full data science pipeline that analyzes customer behavior, predicts optimal cashback rates, and explains model insights—showing how data can drive smarter rewards in fintech.",
+      "category": "Backend Development",
+      "technologies": [
+        "Python"
+      ],
+      "icon": "fas fa-project-diagram",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "status": "Completed",
+      "role": "Lead Developer",
+      "duration": "",
+      "client": "",
+      "github": "https://github.com/Ashshashank/FLUZ-DS",
+      "demo": "https://github.com/Ashshashank/FLUZ-DS",
+      "links": {
+        "github": "https://github.com/Ashshashank/FLUZ-DS",
+        "demo": "https://github.com/Ashshashank/FLUZ-DS",
+        "live": "https://github.com/Ashshashank/FLUZ-DS"
+      },
+      "metrics": {
+        "users": "",
+        "performance": "",
+        "impact": ""
+      }
+    },
+    {
+      "title": "model-interpretability-for-machine-learning-models",
+      "description": "Comprehensive project exploring software design patterns",
+      "longDescription": "Comprehensive project exploring software design patterns",
+      "category": "Development",
+      "technologies": [],
+      "icon": "fas fa-project-diagram",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "status": "Completed",
+      "role": "Lead Developer",
+      "duration": "",
+      "client": "",
+      "github": "https://github.com/Ashshashank/model-interpretability-for-machine-learning-models",
+      "demo": "https://github.com/Ashshashank/model-interpretability-for-machine-learning-models",
+      "links": {
+        "github": "https://github.com/Ashshashank/model-interpretability-for-machine-learning-models",
+        "demo": "https://github.com/Ashshashank/model-interpretability-for-machine-learning-models",
+        "live": "https://github.com/Ashshashank/model-interpretability-for-machine-learning-models"
+      },
+      "metrics": {
+        "users": "",
+        "performance": "",
+        "impact": ""
+      }
+    },
+    {
+      "title": "contribution-history",
+      "description": "Generated GitHub contribution history",
+      "longDescription": "Generated GitHub contribution history",
+      "category": "Development",
+      "technologies": [],
+      "icon": "fas fa-project-diagram",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "status": "Completed",
+      "role": "Lead Developer",
+      "duration": "",
+      "client": "",
+      "github": "https://github.com/Ashshashank/contribution-history",
+      "demo": "https://github.com/Ashshashank/contribution-history",
+      "links": {
+        "github": "https://github.com/Ashshashank/contribution-history",
+        "demo": "https://github.com/Ashshashank/contribution-history",
+        "live": "https://github.com/Ashshashank/contribution-history"
+      },
+      "metrics": {
+        "users": "",
+        "performance": "",
+        "impact": ""
+      }
+    },
+    {
+      "title": "Ashshashank.github.io",
+      "description": "GitHub repository: Ashshashank.github.io",
+      "longDescription": "GitHub repository: Ashshashank.github.io",
+      "category": "Data Science",
+      "technologies": [
+        "HTML"
+      ],
+      "icon": "fas fa-brain",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "status": "Completed",
+      "role": "Lead Developer",
+      "duration": "",
+      "client": "",
+      "github": "https://github.com/Ashshashank/Ashshashank.github.io",
+      "demo": "https://github.com/Ashshashank/Ashshashank.github.io",
+      "links": {
+        "github": "https://github.com/Ashshashank/Ashshashank.github.io",
+        "demo": "https://github.com/Ashshashank/Ashshashank.github.io",
+        "live": "https://github.com/Ashshashank/Ashshashank.github.io"
+      },
+      "metrics": {
+        "users": "",
+        "performance": "",
+        "impact": ""
+      }
+    },
+    {
+      "title": "Movie-Project",
+      "description": "GitHub repository: Movie-Project",
+      "longDescription": "GitHub repository: Movie-Project",
+      "category": "Software Development",
+      "technologies": [
+        "Jupyter Notebook"
+      ],
+      "icon": "fas fa-project-diagram",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "status": "Completed",
+      "role": "Lead Developer",
+      "duration": "",
+      "client": "",
+      "github": "https://github.com/Ashshashank/Movie-Project",
+      "demo": "https://github.com/Ashshashank/Movie-Project",
+      "links": {
+        "github": "https://github.com/Ashshashank/Movie-Project",
+        "demo": "https://github.com/Ashshashank/Movie-Project",
+        "live": "https://github.com/Ashshashank/Movie-Project"
+      },
+      "metrics": {
+        "users": "",
+        "performance": "",
+        "impact": ""
+      }
+    },
+    {
+      "title": "British-Airways",
+      "description": "GitHub repository: British-Airways",
+      "longDescription": "GitHub repository: British-Airways",
+      "category": "Software Development",
+      "technologies": [
+        "Jupyter Notebook"
+      ],
+      "icon": "fas fa-project-diagram",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "status": "Completed",
+      "role": "Lead Developer",
+      "duration": "",
+      "client": "",
+      "github": "https://github.com/Ashshashank/British-Airways",
+      "demo": "https://github.com/Ashshashank/British-Airways",
+      "links": {
+        "github": "https://github.com/Ashshashank/British-Airways",
+        "demo": "https://github.com/Ashshashank/British-Airways",
+        "live": "https://github.com/Ashshashank/British-Airways"
+      },
+      "metrics": {
+        "users": "",
+        "performance": "",
+        "impact": ""
+      }
+    },
+    {
+      "title": "Web-Mining",
+      "description": "GitHub repository: Web-Mining",
+      "longDescription": "GitHub repository: Web-Mining",
+      "category": "Backend Development",
+      "technologies": [
+        "Python"
+      ],
+      "icon": "fas fa-project-diagram",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "status": "Completed",
+      "role": "Lead Developer",
+      "duration": "",
+      "client": "",
+      "github": "https://github.com/Ashshashank/Web-Mining",
+      "demo": "https://github.com/Ashshashank/Web-Mining",
+      "links": {
+        "github": "https://github.com/Ashshashank/Web-Mining",
+        "demo": "https://github.com/Ashshashank/Web-Mining",
+        "live": "https://github.com/Ashshashank/Web-Mining"
+      },
+      "metrics": {
+        "users": "",
+        "performance": "",
+        "impact": ""
+      }
+    },
+    {
+      "title": "TATA_Internship",
+      "description": "GitHub repository: TATA_Internship",
+      "longDescription": "GitHub repository: TATA_Internship",
+      "category": "Development",
+      "technologies": [],
+      "icon": "fas fa-project-diagram",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "status": "Completed",
+      "role": "Lead Developer",
+      "duration": "",
+      "client": "",
+      "github": "https://github.com/Ashshashank/TATA_Internship",
+      "demo": "https://github.com/Ashshashank/TATA_Internship",
+      "links": {
+        "github": "https://github.com/Ashshashank/TATA_Internship",
+        "demo": "https://github.com/Ashshashank/TATA_Internship",
+        "live": "https://github.com/Ashshashank/TATA_Internship"
+      },
+      "metrics": {
+        "users": "",
+        "performance": "",
+        "impact": ""
+      }
+    }
+  ]
+}

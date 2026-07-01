@@ -1,0 +1,18 @@
+{
+  "profile": {
+    "name": "Shashank Adepu",
+    "title": "AI Engineer & Data Engineer",
+    "bio": "AI Engineer and Data Engineer with 5+ years of experience designing scalable AI, machine learning, and cloud data solutions across healthcare, insurance, and financial services domains. Expertise in Python, SQL, PySpark, Databricks, Snowflake, Azure Data Factory, Azure AI, Azure OpenAI, LangChain, RAG, Kafka, Spark, FastAPI, ETL/ELT pipelines, MLOps, Docker, Kubernetes, and cloud-native data platforms. Proven track record of building intelligent analytics solutions, optimizing large-scale data processing systems, and delivering data-driven insights that improve operational efficiency, business performance, and enterprise decision-making."
+  },
+  "contact": {
+    "email": "adepushashank85@gmail.com",
+    "phone": "+1(617) 671-0656",
+    "githubUsername": "Ashshashank",
+    "linkedin": "https://www.linkedin.com/in/shashank1ad/"
+  },
+  "siteConfig": {
+    "domain": "",
+    "title": "Shashank Adepu - Portfolio",
+    "description": "AI Engineer and Data Engineer with 5+ years of experience designing scalable AI, machine learning, and cloud data solutions across healthcare, insurance, and financial services domains. Expertise in Python, SQL, PySpark, Databricks, Snowflake, Azure Data Factory, Azure AI, Azure OpenAI, LangChain, RAG, Kafka, Spark, FastAPI, ETL/ELT pipelines, MLOps, Docker, Kubernetes, and cloud-native data platforms. Proven track record of building intelligent analytics solutions, optimizing large-scale data processing systems, and delivering data-driven insights that improve operational efficiency, business performance, and enterprise decision-making."
+  }
+}

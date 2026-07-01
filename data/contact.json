@@ -1,0 +1,19 @@
+{
+  "sectionTitle": "Let's Create Something Amazing",
+  "subtitle": "Have a project in mind? Let's bring it to life together.",
+  "email": "adepushashank85@gmail.com",
+  "location": "San Francisco",
+  "availability": "Open to opportunities",
+  "socialLinks": [
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/shashank1ad/",
+      "icon": "fab fa-linkedin-in"
+    },
+    {
+      "platform": "Email",
+      "url": "mailto:adepushashank85@gmail.com",
+      "icon": "fas fa-envelope"
+    }
+  ]
+}
