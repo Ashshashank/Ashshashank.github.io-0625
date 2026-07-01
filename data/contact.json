@@ -1,14 +1,19 @@
 {
-  "sectionTitle": "Let's Create Something Amazing",
-  "subtitle": "Have a project in mind? Let's bring it to life together.",
+  "sectionTitle": "Get in touch",
+  "subtitle": "Have a project in mind or a role to fill? Let's build something intelligent together.",
   "email": "adepushashank85@gmail.com",
-  "location": "San Francisco",
+  "location": "Boston, MA",
   "availability": "Open to opportunities",
   "socialLinks": [
     {
       "platform": "LinkedIn",
       "url": "https://www.linkedin.com/in/shashank1ad/",
       "icon": "fab fa-linkedin-in"
+    },
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/Ashshashank",
+      "icon": "fab fa-github"
     },
     {
       "platform": "Email",

@@ -1,18 +1,8 @@
 {
-  "_instructions": "Site-wide configuration and meta tags. Update these values for SEO and branding.",
   "meta": {
     "title": "Shashank Adepu | AI Engineer & Data Engineer",
-    "description": "Shashank Adepu - AI Engineer & Data Engineer | Portfolio",
+    "description": "Shashank Adepu is an AI Engineer and Data Engineer with 5+ years of experience building scalable AI, machine learning, and cloud data solutions across healthcare, insurance, and finance.",
     "author": "Shashank Adepu",
-    "keywords": "AI Engineer & Data Engineer, Portfolio, Shashank Adepu"
-  },
-  "branding": {
-    "name": "Shashank Adepu",
-    "tagline": "AI Engineer & Data Engineer"
-  },
-  "settings": {
-    "year": 2026,
-    "enableAnimations": true,
-    "navbarScrollEffect": true
+    "keywords": "AI Engineer, Data Engineer, Machine Learning, Generative AI, LLM, RAG, MLOps, Data Engineering, Python, PySpark, Databricks, Snowflake, Azure, Shashank Adepu, Boston"
   }
 }

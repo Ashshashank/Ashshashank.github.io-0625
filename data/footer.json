@@ -1,11 +1,18 @@
 {
-  "_instructions": "Footer content - copyright and social links.",
   "text": "Designed & Built by Shashank Adepu",
-  "copyright": "© 2026 All rights reserved.",
+  "copyright": "© 2026 Shashank Adepu. All rights reserved.",
   "links": [
     {
       "text": "LinkedIn",
       "url": "https://www.linkedin.com/in/shashank1ad/"
+    },
+    {
+      "text": "GitHub",
+      "url": "https://github.com/Ashshashank"
+    },
+    {
+      "text": "Email",
+      "url": "mailto:adepushashank85@gmail.com"
     }
   ]
 }

@@ -1,13 +1,10 @@
 {
-  "_instructions": "Add your work experience here. Copy the experience object for each job.",
-  "sectionTitle": "Professional Experience",
+  "sectionTitle": "Experience",
   "experiences": [
     {
       "title": "AI Engineer",
       "company": "Medsix, USA",
       "period": "Jan 2026 – Present",
-      "location": "",
-      "description": "Architected Generative AI solutions using Python, LangChain, Azure OpenAI, and vector databases to automate clinical document summarization, reducing manual review effort by 65% and enabling faster decision-making for healthcare operations teams across multiple provider networks.\nEngineered Retrieval-Augmented Generation (RAG) pipelines on Azure AI Search and Snowflake, to deliver context-aware responses from millions of patient and operational records, improving answer relevance by 40% for care management and clinical stakeholders.\nDeveloped intelligent healthcare copilots using FastAPI, OpenAI APIs, and semantic search frameworks, to streamline prior authorization and claims support workflows, resulting in a 35% reduction in average case handling time for support teams.\nOrchestrated MLOps workflows using Azure ML, MLflow, Docker, Kubernetes, and GitHub Actions, to automate model deployment, monitoring, and retraining processes, improving model release frequency while ensuring governance and compliance requirements.\nSpearheaded multimodal AI initiatives leveraging LLMs, NLP, and healthcare knowledge graphs, to identify treatment patterns and operational insights from structured and unstructured clinical data, helping business leaders optimize patient engagement strategies.",
       "responsibilities": [
         "Architected Generative AI solutions using Python, LangChain, Azure OpenAI, and vector databases to automate clinical document summarization, reducing manual review effort by 65% and enabling faster decision-making for healthcare operations teams across multiple provider networks",
         "Engineered Retrieval-Augmented Generation (RAG) pipelines on Azure AI Search and Snowflake, to deliver context-aware responses from millions of patient and operational records, improving answer relevance by 40% for care management and clinical stakeholders",
@@ -20,8 +17,6 @@
       "title": "Data Engineer",
       "company": "Medsix, USA",
       "period": "Feb 2024 – Jan 2026",
-      "location": "",
-      "description": "Designed scalable healthcare data platforms using Azure Data Factory, Databricks, PySpark, and Snowflake, to consolidate EHR, claims, and provider datasets into a unified analytics ecosystem supporting more than 25 enterprise reporting solutions.\nConstructed real-time ingestion pipelines using Kafka, Spark Structured Streaming, and Delta Lake, to process over 8 million healthcare transactions daily, improving data availability and reducing reporting latency for clinical analytics teams.\nImplemented advanced data quality frameworks using Great Expectations and Python validation libraries, to improve data reliability across critical healthcare datasets, reducing downstream data issues by 45% for business and compliance stakeholders.\nOptimized large-scale ETL workloads through partitioning, caching, and performance tuning techniques, to reduce pipeline execution time by 50% and improve resource utilization across cloud environments.\nCollaborated with data scientists and analytics teams to provision feature-ready datasets within Snowflake and Databricks, enabling faster model experimentation and accelerating predictive healthcare initiatives across multiple business units.",
       "responsibilities": [
         "Designed scalable healthcare data platforms using Azure Data Factory, Databricks, PySpark, and Snowflake, to consolidate EHR, claims, and provider datasets into a unified analytics ecosystem supporting more than 25 enterprise reporting solutions",
         "Constructed real-time ingestion pipelines using Kafka, Spark Structured Streaming, and Delta Lake, to process over 8 million healthcare transactions daily, improving data availability and reducing reporting latency for clinical analytics teams",
@@ -34,8 +29,6 @@
       "title": "Data Engineer",
       "company": "The Cigna Group, USA",
       "period": "May 2023 – Feb 2024",
-      "location": "",
-      "description": "Developed cloud-native data pipelines using Azure Data Factory, Python, SQL, and Azure Data Lake, to integrate claims, member, and provider datasets into centralized analytics platforms supporting healthcare operations and regulatory reporting.\nAutomated ingestion and transformation processes for large-scale healthcare data using PySpark and Databricks, to process over 3 TB of data daily while improving data delivery consistency for actuarial and business intelligence teams.\nEstablished metadata-driven ETL frameworks and monitoring solutions using Azure Monitor and Log Analytics, to enhance pipeline observability and reduce production incidents by 30% across critical reporting workloads.\nRefined data warehouse performance through query optimization, indexing strategies, and dimensional modeling techniques, to improve report response times and enable faster access to actionable healthcare insights.\nPartnered with compliance, analytics, and business stakeholders to deliver trusted datasets aligned with HIPAA requirements, supporting operational reporting and enterprise decision-making initiatives.",
       "responsibilities": [
         "Developed cloud-native data pipelines using Azure Data Factory, Python, SQL, and Azure Data Lake, to integrate claims, member, and provider datasets into centralized analytics platforms supporting healthcare operations and regulatory reporting",
         "Automated ingestion and transformation processes for large-scale healthcare data using PySpark and Databricks, to process over 3 TB of data daily while improving data delivery consistency for actuarial and business intelligence teams",
@@ -48,8 +41,6 @@
       "title": "Data Analyst",
       "company": "Tata Capital, India",
       "period": "Sep 2019 – Aug 2022",
-      "location": "",
-      "description": "Analyzed lending, customer, and financial datasets using Python, SQL, Informatica, and Hadoop technologies to support enterprise reporting, business intelligence, and risk management initiatives across multiple business functions.\nDeveloped and maintained batch and incremental data processing workflows using Spark and Hive to prepare, transform, and analyze high-volume financial transaction data, improving reporting accuracy for loan servicing and credit operations teams.\nAutomated data reconciliation, validation, and quality assurance processes across multiple financial systems, strengthening data integrity controls and reducing manual verification efforts by 40% for finance, compliance, and audit stakeholders.\nPerformed data analysis, schema optimization, and SQL performance tuning to improve reporting efficiency, accelerate monthly reporting cycles, and enable timely executive-level decision-making across business units.\nPartnered with business analysts, risk teams, and stakeholders to create analytical data marts, KPI dashboards, and business reports, providing actionable insights into customer portfolios, loan performance, operational trends, and key business metrics.",
       "responsibilities": [
         "Analyzed lending, customer, and financial datasets using Python, SQL, Informatica, and Hadoop technologies to support enterprise reporting, business intelligence, and risk management initiatives across multiple business functions",
         "Developed and maintained batch and incremental data processing workflows using Spark and Hive to prepare, transform, and analyze high-volume financial transaction data, improving reporting accuracy for loan servicing and credit operations teams",

@@ -1,10 +1,8 @@
 {
-  "_instructions": "Organize your skills into categories. Each category has a name, icon, and list of skills.",
-  "_iconHelp": "Use Font Awesome icons (https://fontawesome.com/icons).",
   "sectionTitle": "Skills & Technologies",
   "categories": [
     {
-      "category": "Programming Languages",
+      "name": "Programming Languages",
       "icon": "fas fa-code",
       "skills": [
         "Python",
@@ -17,7 +15,7 @@
       ]
     },
     {
-      "category": "Frameworks & Libraries",
+      "name": "Frameworks & Libraries",
       "icon": "fas fa-toolbox",
       "skills": [
         "LangChain",
@@ -27,7 +25,7 @@
       ]
     },
     {
-      "category": "Tools & Platforms",
+      "name": "Tools & Platforms",
       "icon": "fas fa-wrench",
       "skills": [
         "Microsoft Azure",
@@ -49,7 +47,7 @@
       ]
     },
     {
-      "category": "Technical Skills",
+      "name": "Technical Skills",
       "icon": "fas fa-laptop-code",
       "skills": [
         "Generative AI",

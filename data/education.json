@@ -1,24 +1,15 @@
 {
-  "_instructions": "Add your education and certifications here.",
-  "sectionTitle": "Education & Certifications",
-  "certificationsTitle": "Certifications",
+  "sectionTitle": "Education",
   "education": [
     {
       "degree": "Master of Science",
       "school": "Boston University, Massachusetts, USA",
-      "institution": "Boston University, Massachusetts, USA",
-      "period": "2024",
-      "details": "",
-      "description": ""
+      "period": "2024"
     },
     {
       "degree": "Bachelor of Engineering",
       "school": "Chaitanya Bharathi Institute of Technology, India",
-      "institution": "Chaitanya Bharathi Institute of Technology, India",
-      "period": "2021",
-      "details": "",
-      "description": ""
+      "period": "2021"
     }
-  ],
-  "certifications": []
+  ]
 }
